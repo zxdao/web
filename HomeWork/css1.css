@@ -2,7 +2,7 @@
 * @Author: dell
 * @Date:   2018-12-29 20:29:12
 * @Last Modified by:   zxdao
-* @Last Modified time: 2019-01-06 14:33:35
+* @Last Modified time: 2019-01-06 19:59:47
 */
 *{
 	padding: 0;
@@ -280,19 +280,19 @@ body{
 	font-size:10px;
 	line-height:40px;
 }
-#middle1{
+#midstr1{
 	background-color:#ffffff;
 	width:995px;
 	position:relative;
 }
-#middle1>div{
+#midstr1>div{
 	float:left;
 }
-#middle1{
+#midstr1{
 	float:left;
 }
 
-#middle3{
+#midstr3{
 	width:408px;
 	position:relative;
 }
@@ -304,28 +304,28 @@ body{
 	margin-top:23px;
 }
 
-.middle4{
+.midstr4{
 	float:left;
 }
-#middle4{
+#midstr4{
 	margin-left:23px;
 	margin-top:23px;
 	width:408px;
 }
-#middle7{
+#midstr7{
 	margin-left:246px;
 }
 
-#middle5{
+#midstr5{
 	width:55px;
 	height:55px;
 }
 
-#middle2{
+#midstr2{
 	float:left;
 }
 
-#middle8{
+#midstr8{
 	position:absolute;
 	left:432px;
 	top:23px;
@@ -336,29 +336,29 @@ body{
 	overflow:hidden;
 }
 
-#middle9{
+#midstr9{
 	float:left;
 	width:535px;
 	height:608px;margin-top:23px;
 	margin-left:23px;
 }
 
-#middle10{
+#midstr10{
 	font-size:17px;
 	font-weight:bolder;
 }
-#middle11{
+#midstr11{
 	font-size:13px;
 	margin-top:10px;
 	color:#676660;
 }
 
-#middle12{
+#midstr12{
 	font-size:13px;
 	color:#676660;
 	margin-top:5px;
 }
-#middle13{
+#midstr13{
 	font-size:13px;
 	margin-top:20px;
 	padding-left:20px;
@@ -367,31 +367,31 @@ body{
 	font-weight:bolder;
 }
 
-#middle14{
+#midstr14{
 	font-size:15px;
 	color:#ff0754;
 	margin-left:50px;
 }
-#middle15{
+#midstr15{
 	text-decoration:line-through;
 	margin-left:10px;
 }
 
-#middle16{
+#midstr16{
 	width:500px;
 	height:101px;
 }
-#middle17{
+#midstr17{
 	margin-top:10px;
 	padding-left:20px;
 	font-size:13px;
 }
 
-#middle18{
+#midstr18{
 	float:left;
 }
 
-#middle19{
+#midstr19{
 	float:left;
 	width:60px;
 	height:30px;
@@ -403,7 +403,7 @@ body{
 	border:0;
 }
 
-#middle20{
+#midstr20{
 	float:left;
 	width:60px;
 	height:30px;
@@ -414,18 +414,18 @@ body{
 	border:0;
 }
 
-#middle21{
+#midstr21{
 	margin-left:20px;
 	margin-top:20px;
 	font-size:13px;
 	height:28px;
 	line-height:28px;
 }
-.middle21{
+.midstr21{
 	float:left;
 }
 
-#middle23{
+#midstr23{
 	margin-left:30px;
 	width:25px;
 	height:28px;
@@ -434,42 +434,42 @@ body{
 	line-height:28px;
 }
 
-#middle24{
+#midstr24{
 	width:53px;
 	height:28px;
 	text-align:center;
 	line-height:28px;
 	border:1px solid #ddd;
 }
-#middle25{
+#midstr25{
 	width:25px;
 	height:28px;
 	border:1px solid #ddd;
 	text-align:center;
 	line-height:28px;
 }
-#middle26{
+#midstr26{
 	margin-left:20px;
 }
 
-#middle27{
+#midstr27{
 	width:401px;
 	height:47px;
 }
-#middle28{
+#midstr28{
 	font-size:13px;
 	padding-left:110px;
 }
-#middle29{
+#midstr29{
 	font-size:15px;
 	color:#ffae00;
 	margin-left:20px;
 }
-#middle30{
+#midstr30{
 	margin-top:20px;
 	padding-left:20px;
 }
-#middle31{
+#midstr31{
 	width:152px;
 	height:40px;
 	text-align:center;
@@ -479,7 +479,7 @@ body{
 	color:#ff0754;
 	border-radius:7%;
 }
-#middle32{
+#midstr32{
 	width:152px;
 	height:40px;
 	text-align:center;
@@ -490,7 +490,7 @@ body{
 	color:white;
 	border-radius:7%;
 }
-#middlea{
+#midstra{
 	float:left;
 	width:180px;
 	height:620px;
@@ -521,14 +521,14 @@ body{
 	padding-top:20px;
 }
 /* 最下部开始 */
-#bottom1{
+#bot_under1{
 	width:936.5px;
 	text-align:center;
 	height:12px;
 	padding-left:243.5px;
 }
 
-#bottom1>li{
+#bot_under1>li{
 	float:left;
 	width:77px;
 	height:12px;
@@ -539,7 +539,7 @@ body{
 	color:#b4a3ba;
 }
 
-#bottom2{
+#bot_under2{
 	font-size:10px;
 	color:#b4a3ba;
 	height:12px;
@@ -548,7 +548,7 @@ body{
 	margin-top:10px;
 }
 
-#bottom3{
+#bot_under3{
 	font-size:10px;
 	color:#b4a3ba;
 	height:12px;
@@ -557,7 +557,7 @@ body{
 	margin-top:10px;
 }
 
-#bottom4{
+#bot_under4{
 	font-size:10px;
 	color:#b4a3ba;
 	height:12px;
@@ -566,16 +566,16 @@ body{
 	margin-top:5px;
 }
 
-#bottom5>div{
+#bot_under5>div{
 	float:left;
 }
-#bottom5{
+#bot_under5{
 	padding-left:215px;
 	margin-top:5px;
 }
 
 /* 加入购物车 */
-#shop{
+#shopping{
 	width:400px;
 	height:222px;
 	position:absolute;
@@ -586,13 +586,13 @@ body{
 	display:none;
 }
 
-#shop1{
+#shopping1{
 	float:right;
 	padding-right:5px;
 	padding-top:5px;
 }
 
-#shop2{
+#shopping2{
 	font-size:14px;
 	color:#ff0754;
 	border:1px solid #ff0754;
@@ -604,7 +604,7 @@ body{
 	border-radius:7%;
 }
 
-#shop3{
+#shopping3{
 	font-size:14px;
 	color:white;
 	border:0;
@@ -617,18 +617,18 @@ body{
 	border-radius:7%;
 }
 
-#shop4{
+#shopping4{
 	margin-left:30px;
 }
 
-#shop5{
+#shopping5{
 	position:absolute;
 	left:0;
 	top:0;
 	opacity:0.5;
 	display:none;
 	background-color:rgb(0,0,0);
-	width:1700px;
+	width:2000px;
 	height:1260px;
 }
 
